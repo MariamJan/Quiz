@@ -2,6 +2,6 @@
 using namespace std;
  main()
  {
-    cout<<"the branch"<<endl;
-    cout<<"the branch"<<endl;
+    cout<<"the new branch"<<endl;
+    cout<<"the new branch"<<endl;
  }
